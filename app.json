@@ -1,0 +1,25 @@
+{
+  "id": "e30c1b6f-d67e-42f2-9d4f-7398b556e861",
+  "name": "PurchaseOrder",
+  "publisher": "Default publisher",
+  "version": "1.0.0.22",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
